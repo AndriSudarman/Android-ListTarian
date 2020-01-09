@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListTarian</string>
+    <string name="tarian_name">Name</string>
+    <string name="tarian_description">Description</string>
+</resources>
